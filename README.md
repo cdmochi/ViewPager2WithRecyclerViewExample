@@ -1,2 +1,2 @@
-# ViewPager2WithRecyclerViewExample 
-### Containing customview with recyclerview inside and putting These view into ViewPager2. 
+## About This
+A Proof of Concept by create a customview with recyclerview inside then put thses view into viewPager2.
